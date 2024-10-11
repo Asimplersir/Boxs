@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 119968
-# 更新时间: 2024-10-11 19:57:43
+# 规则数量: 120018
+# 更新时间: 2024-10-12 07:57:50
 
 no_resolve: true
 domain_set:
@@ -2114,6 +2114,7 @@ domain_suffix_set:
 - 666bbb222www.com
 - 666bbb333bbb.com
 - 666bbb888www.com
+- 666hh999gg.com
 - 666ppp222ppp.com
 - 666ppp888ppp.com
 - 6677648.reddoorz.com
@@ -2340,6 +2341,7 @@ domain_suffix_set:
 - 7757139f7b.com
 - 7759.com
 - 775cf6f1ae.com
+- 776.jstatic.xyz
 - 776173f9e6.com
 - 7767.5clo0xmbf.com
 - 777aa888bb.com
@@ -10281,6 +10283,7 @@ domain_suffix_set:
 - aklaqdzukadh.com
 - aklaszonkob.com
 - aklmjylwvkayv.top
+- aklmjylwvkqqv.top
 - aklorswikk.com
 - akmh074.vip
 - akmh080.vip
@@ -13944,7 +13947,6 @@ domain_suffix_set:
 - aps.hearstnp.com
 - apsalar.com
 - apsatnlfylz.com
-- apsehick.date
 - apsidalmungoos.top
 - apsmediaagency.com
 - apsoacou.xyz
@@ -16865,6 +16867,7 @@ domain_suffix_set:
 - beacon-fullpage-predictor.goguardian.com
 - beacon.adelphic.com
 - beacon.affil.walmart.com
+- beacon.apsehick.date
 - beacon.carfax.com
 - beacon.cdn.qq.com
 - beacon.cdnma.com
@@ -16957,7 +16960,6 @@ domain_suffix_set:
 - beautysolution24.com
 - beautyspaguide.com
 - beautyspumoid.top
-- beautyt.shop
 - beaver.bluebunnypaper.com
 - beaver.ecosecretariat.org
 - beaver.livechatlabs.com
@@ -20018,7 +20020,6 @@ domain_suffix_set:
 - buzzazone.com
 - buzzcity.net
 - buzzdancing.com
-- buzzdeal.com
 - buzzer.xhamster.com
 - buzzer.xhofficial.com
 - buzzfiles.net
@@ -20673,6 +20674,7 @@ domain_suffix_set:
 - caltertangintin.com
 - calumnylightlyspider.com
 - calvali.com
+- calvaryfiliety.top
 - calvera-telemetry.polaris.me
 - calvyn.shunnosachi.jp
 - cam2cam.xlovecam.com
@@ -22020,6 +22022,7 @@ domain_suffix_set:
 - cfugrnc.icu
 - cfusionsys.com
 - cfyhym.weightwatchers.fr
+- cg-pao-tu.nanyanglk.com
 - cgbaybqywso.com
 - cgbswl.icu
 - cgcmva.coffeestyle.jp
@@ -24220,7 +24223,6 @@ domain_suffix_set:
 - coendouspare.com
 - coertiest.click
 - coexistsafetyghost.com
-- cofdeal.com
 - coffee2go.org
 - coffeeliketime.com
 - coffeemildness.com
@@ -25641,6 +25643,7 @@ domain_suffix_set:
 - cortellisconnections.thomsonreuters.com
 - corvatetrk.cc
 - corveseiren.com
+- cos1999.top
 - cosedluteo.com
 - cosesgabbles.top
 - cosiequiapo.com
@@ -25653,6 +25656,7 @@ domain_suffix_set:
 - cosmicpartially.com
 - cosmo001.top
 - cosmo100.top
+- cosmo202.top
 - cosmopolita.fr
 - cosouy.xyz
 - costaquire.com
@@ -32463,6 +32467,7 @@ domain_suffix_set:
 - differpurifymustard.com
 - differsassassin.com
 - differsprosperityprotector.com
+- diffhobbet.click
 - difficultfog.com
 - difficultydilapidationsodium.com
 - difficultyearliestclerk.com
@@ -34057,6 +34062,7 @@ domain_suffix_set:
 - dphpycbr.com
 - dphunjimnkyadh.com
 - dpijohb.icu
+- dpjzr.top
 - dpjzzgw.cn
 - dplp1.ibmnorthamerica.adobesandbox.com
 - dpm.demdex.net.iberostar.com
@@ -34600,6 +34606,7 @@ domain_suffix_set:
 - dungmamma.com
 - dunkansp.info
 - dunnedemicant.com
+- dunsathelia.click
 - duoduo.net
 - duomai.com
 - duomeng.cn
@@ -39208,7 +39215,6 @@ domain_suffix_set:
 - fashion.edm.globalsources.com
 - fashion.tradeshow.globalsources.com
 - fashionablegangsterexplosion.com
-- fashionadid.com
 - fashioncontainer.net
 - fashionshawaii.com
 - fassknolls.top
@@ -39600,6 +39606,7 @@ domain_suffix_set:
 - feed.baidu.com
 - feed.clickmenia.com
 - feedads.feedblitz.com
+- feedback-c.zijieapi.com
 - feedback.aon.com
 - feedback.avigilon.com
 - feedback.campbellmetal.com
@@ -40109,6 +40116,7 @@ domain_suffix_set:
 - files.ly
 - files.ukr.net.ssl2.in
 - files.urlinsgroup.com
+- files.xtpag.top
 - files2.sogou.com
 - files59.com
 - filesactive.com
@@ -40945,6 +40953,7 @@ domain_suffix_set:
 - fntphihy.com
 - fnuimuuifssv.com
 - fnvma.milanuncios.com
+- fnvmtqorflqcqg.com
 - fnxkntusnd.com
 - fnxtoiwlrgevjm.com
 - fnzuymy.com
@@ -41327,7 +41336,6 @@ domain_suffix_set:
 - fossorsoxgate.top
 - fotao9.com
 - fotaxf.xyz
-- fotballsko-salg.com
 - fotoompi.com
 - fotoseiten.heimat.eu
 - fotsaulr.net
@@ -42405,6 +42413,7 @@ domain_suffix_set:
 - fujxujid.com
 - fukkad.com
 - fukpapsumvib.com
+- fuksaighetchy.net
 - fulbe-whs.com
 - fulfilleddetrimentpot.com
 - fulfillgift.com
@@ -46878,6 +46887,7 @@ domain_suffix_set:
 - gulf.moneroocean.stream
 - gulfimply.com
 - gull.mayansmithgobat.com
+- gullahbaraca.com
 - gullible-hope.com
 - gullible-lawyer.pro
 - gullibleanimated.com
@@ -47015,6 +47025,7 @@ domain_suffix_set:
 - gxcqhawgc.com
 - gxcvxdeda.com
 - gxdzfyg.com
+- gxfdgabem.com
 - gxfuwkgsp.com
 - gxgbvmg.cn
 - gxihcq.xyz
@@ -49722,6 +49733,7 @@ domain_suffix_set:
 - hruwegwayoki.com
 - hrwgsq.loesdau.de
 - hrxjqyxvdqidpv.com
+- hrxkdrlobmm.com
 - hryfaa.brandos.fi
 - hs-analytics.net
 - hs-banner.com
@@ -51686,9 +51698,11 @@ domain_suffix_set:
 - img-screnshot.com
 - img-x.jd.com
 - img.0279.net
+- img.175532.com
 - img.263y.com
 - img.3rdplatform.me
 - img.3sjt.com
+- img.911787.com
 - img.91p51.com
 - img.alibaba.com
 - img.aonunited.com
@@ -52228,6 +52242,7 @@ domain_suffix_set:
 - influxtabloidkid.com
 - influxtravellingpublicly.com
 - infnexhjihlxyhf.xyz
+- info-animals.com
 - info-flirtme.com
 - info-fsi.stanford.edu
 - info-milfroom.com
@@ -56610,6 +56625,7 @@ domain_suffix_set:
 - kernenergie.efscle.com
 - kernfatling.top
 - kernh41.com
+- kerriereknit.shop
 - kerryfluence.com
 - kertzmann.com
 - kerumal.com
@@ -57049,7 +57065,6 @@ domain_suffix_set:
 - klcpcsdoaelyjeh.com
 - klcpof.lojasbecker.com
 - klcuxykjrfto.xyz
-- kleankanteenbottle.com
 - klehewasades.org
 - klenhosnc.com
 - klerdond.nirtlos.uno
@@ -57126,8 +57141,10 @@ domain_suffix_set:
 - kmpxq.cn
 - kmqghr.bristolshop.be
 - kmqhmn.helen-marlen.com
+- kmqianneng66.com
 - kmrilock.com
 - kmruv.cn
+- kms-full.com
 - kms-pc.com
 - kms-tool.com
 - kmsauto.info
@@ -58681,6 +58698,7 @@ domain_suffix_set:
 - lejieti.com
 - lejshxao.xyz
 - lejuliang.com
+- lekaleregoldfor.com
 - leket.fr
 - lekfez.icu
 - lekfso.hitohana.tokyo
@@ -61295,7 +61313,6 @@ domain_suffix_set:
 - loveeveryday.brighterkind.com
 - lovefilm21.com
 - lovegg.club
-- lovegoldsale.com
 - lovehiccuppurple.com
 - loveinbox.co.uk
 - loveling.info
@@ -62730,6 +62747,7 @@ domain_suffix_set:
 - makethebusiness.com
 - makeupenumerate.com
 - makifege.ru
+- making.party
 - makingnude.com
 - makqfcvs.com
 - makqsd.icu
@@ -62737,6 +62755,7 @@ domain_suffix_set:
 - malatiswirled.com
 - malay.buzz
 - maldini.xyz
+- malduckcompile.com
 - maleliteral.com
 - malelocated.com
 - malignantbriefcaseleading.com
@@ -65128,6 +65147,7 @@ domain_suffix_set:
 - mdws.wpcu.ca
 - mdws.wscu.com
 - mdws.yourcu.com
+- mdygnuaadirhz.com
 - mdzwjra.cn
 - me.5.p2l.info
 - me.coact.org.au
@@ -65566,6 +65586,7 @@ domain_suffix_set:
 - menecx.ayanokoji-onlineshop.jp
 - menelaus-col.com
 - menestresser.xyz
+- menews.org
 - meng.360zuowen.com
 - mengbli.com
 - mengyang.info
@@ -67677,6 +67698,8 @@ domain_suffix_set:
 - miniaturecomfortable.com
 - miniatureoffer.pro
 - minidcsc.kugou.com
+- minigame5-normal-hl.zijieapi.com
+- minigame5-normal-lq.zijieapi.com
 - miniglobalcitizens.com
 - minihosted.com
 - minimize363.fun
@@ -69134,6 +69157,7 @@ domain_suffix_set:
 - mssdk-sg.tiktok.com
 - mssdk.bytedance.com
 - mssdk.volces.com
+- mssdk.zijieapi.com
 - mssheng.com
 - mssql2.aomg5bzv7.com
 - mstat.acestream.net
@@ -70009,6 +70033,8 @@ domain_suffix_set:
 - n4t.co
 - n5.nskfyl.com
 - n522rv1.cn
+- n55cpw.vip
+- n55ylc001.vip
 - n5725.com
 - n5n5s.icu
 - n6.nskfyl.com
@@ -70275,14 +70301,13 @@ domain_suffix_set:
 - navi39.ru
 - navi4.com
 - navi40.com
-- navi40.ru
+- navi42.ru
 - navi45.ru
 - navi5.com
 - navi50.com
 - navi53.com
 - navi54.com
 - navi56.com
-- navi57.ru
 - navi58.com
 - navi59.ru
 - navi6.com
@@ -70598,6 +70623,7 @@ domain_suffix_set:
 - nessainy.net
 - nestedimpages.life
 - nestledmph.com
+- nestorscymlin.shop
 - neszmely.eu
 - net-filter.com
 - net-protector.com
@@ -72048,6 +72074,7 @@ domain_suffix_set:
 - ntreeom.com
 - ntrfr.leovegas.com
 - ntrftrk.com
+- ntrftrksec.com
 - ntrtifx.xyz
 - ntsiwoulukdli.org
 - ntsjhe.nationalevacaturebank.nl
@@ -73820,7 +73847,6 @@ domain_suffix_set:
 - online.spsglobal.com
 - online1.webcams.com
 - online143.com
-- onlineadid.com
 - onlineads.magicvalley.com
 - onlineapi.youappi.com
 - onlinebalances.com
@@ -74279,6 +74305,7 @@ domain_suffix_set:
 - oqcjtifihpi.com
 - oqddkgixmqhovv.xyz
 - oqeazohx.com
+- oqejrexclrbqoo.com
 - oqejupqb.xyz
 - oqfoczdfyag.com
 - oqfpuzaltac.com
@@ -74441,6 +74468,7 @@ domain_suffix_set:
 - oruxdwhatijun.info
 - orxsq.xyz
 - oryhic.xyz
+- os-mon.zijieapi.com
 - os.efax.es
 - os.efax.nl
 - os.efaxcorporate.com
@@ -74889,6 +74917,7 @@ domain_suffix_set:
 - oversightantiquarianintervention.com
 - oversightbullet.com
 - oversleepcommercerepeat.com
+- oversolosisor.com
 - overswaloton.com
 - overswirling.sbs
 - overtalk.net
@@ -75536,6 +75565,7 @@ domain_suffix_set:
 - palama2.co
 - palama2.com
 - palaroleg.guru
+- palatablelay.pro
 - palatedaylight.com
 - paleexamsletters.com
 - paleleaf.com
@@ -76588,6 +76618,7 @@ domain_suffix_set:
 - pbxopblttvorhd.com
 - pbyvehcz.com
 - pc-ads.com
+- pc-mon.zijieapi.com
 - pc-virus-d0l92j2.pw
 - pc.personalcreations.com
 - pc.uf.ksosoft.com
@@ -77391,6 +77422,7 @@ domain_suffix_set:
 - physicaldetermine.com
 - physicallyshillingattentions.com
 - physicalnecessitymonth.com
+- physiotherapyindhaka.com
 - physiquefourth.com
 - phytyltweaked.com
 - phywi.org
@@ -77452,7 +77484,6 @@ domain_suffix_set:
 - pictureblank.com
 - picturecorrespond.com
 - pictureimgz.ru
-- pictureoutdoor.com
 - pictures-album.com
 - pictures-screens.net
 - picturesave.net
@@ -78440,6 +78471,7 @@ domain_suffix_set:
 - pmieprlpq.com
 - pmiots.thalasso-saintmalo.com
 - pmiskc.cn
+- pmkez.tech
 - pmmojatx.com
 - pmnct63.shop
 - pmptk.xyz
@@ -78606,6 +78638,7 @@ domain_suffix_set:
 - polarbearyulia.com
 - polarbyte.com
 - polarcdn-terrax.com
+- polaris.zijieapi.com
 - polaritypresentimentasterisk.com
 - polarlootstairwell.com
 - polarlybaizas.com
@@ -80269,6 +80302,7 @@ domain_suffix_set:
 - psugkfqmys.com
 - psumainy.xyz
 - psungaum.com
+- psunseewhu.com
 - psuphuns.net
 - psurdoak.com
 - psurigrabi.com
@@ -81030,6 +81064,7 @@ domain_suffix_set:
 - pzqqstb.icu
 - pztezl.xyz
 - pztpygaul.com
+- pzvai.site
 - pzwdtz.com
 - pzwigrnuimeh.com
 - pzxhyp.aeropostale.com
@@ -81867,7 +81902,6 @@ domain_suffix_set:
 - quiresraviney.com
 - quiri-iix.com
 - quisma.com
-- quitasueno.com
 - quitepoet.com
 - quitesousefulhe.info
 - quitjav11.fun
@@ -82026,6 +82060,7 @@ domain_suffix_set:
 - qxuvpohuy.com
 - qxvp6.site
 - qxvqhy.miliboo.es
+- qxwoiv.com
 - qxxys.com
 - qxyam.com
 - qxycdoexyj.com
@@ -82594,6 +82629,7 @@ domain_suffix_set:
 - rcqqlwb.cn
 - rcqrkf.france-trampoline.com
 - rcqtck.dsquared2.com
+- rctgljra.com
 - rcuacroossonec.com.ua
 - rcuafjdnsocpr.xyz
 - rcudsw.ths-net.jp
@@ -85491,6 +85527,7 @@ domain_suffix_set:
 - runtnc.net
 - runtujs.com
 - runwaff.com
+- ruohmghwpzzp.com
 - ruozukk.xyz
 - rup5.destinia.ru
 - rupiahsaku.com
@@ -86877,6 +86914,7 @@ domain_suffix_set:
 - savemyfile.net
 - saveourspace.co
 - savepictures.us
+- saveu5-normal-lq.zijieapi.com
 - savings-time.com
 - savings.adp.ca
 - savingsupervisorsalvage.com
@@ -89502,6 +89540,7 @@ domain_suffix_set:
 - shouzhi.biz
 - shovedhannah.com
 - shovedrailwaynurse.com
+- show-creative1.com
 - show-me-how.net
 - show-msgch.qq.com
 - show-review.com
@@ -93676,7 +93715,6 @@ domain_suffix_set:
 - snowplow-pixel.tradingview.com
 - snowplow.swm.digital
 - snowplowjs.darwin.cx
-- snowroxy.com
 - snowy.bellroy.com
 - snprxx.wwfmarket.com
 - snptrk.com
@@ -94318,7 +94356,6 @@ domain_suffix_set:
 - sorcermojo.shop
 - sordimtaulee.com
 - soredistinguishedaffable.com
-- soreldiscount.com
 - sorelyafric.com
 - soremetropolitan.com
 - soritespary.com
@@ -95994,6 +96031,7 @@ domain_suffix_set:
 - starget.workingadvantage.com
 - starify.appsonic.fr
 - starjav11.fun
+- starkgame.zijieapi.com
 - starkhousing.com
 - starkslaveconvenience.com
 - starkuno.com
@@ -97637,7 +97675,6 @@ domain_suffix_set:
 - steamcommnnity.com
 - steamcommulty.com
 - steamcommuneity.com
-- steamcommunijtly.com
 - steamcommunita.com
 - steamcommunitg.com
 - steamcommunitiy.com
@@ -97947,14 +97984,12 @@ domain_suffix_set:
 - store-aleteia.org
 - store-api.mumuglobal.com
 - store-downloads.com
-- store-junior.com
 - store-swatch.com
 - store.echovisuals.com
 - store.esquirrel.at
 - store.tv.api.3g.youku.com
 - store.xl.api.3g.youku.com
 - store25848025.company.site
-- storeadid.com
 - storeapps24.com
 - storeax.com
 - storecollegeonline.com
@@ -98006,6 +98041,7 @@ domain_suffix_set:
 - stpmgo.com
 - stpmneaywgib.com
 - stq89.icu
+- stquality.org
 - str.foodnetwork.ca
 - str.globalnews.ca
 - str1kee.com
@@ -98483,6 +98519,7 @@ domain_suffix_set:
 - sukultingecauy.info
 - sulcititanic.com
 - sulelysr.com
+- sulideshalfman.click
 - sulkvulnerableexpecting.com
 - sulkybutter.com
 - sullageprofre.com
@@ -98657,6 +98694,7 @@ domain_suffix_set:
 - supposedbrand.com
 - supposerevenue.com
 - suppressedanalogyrain.com
+- supqajfecgjv.com
 - supragame.com
 - supreme-adblocker.net
 - supremeadblocker.info
@@ -102166,6 +102204,7 @@ domain_suffix_set:
 - timing.whenandhowagency.com
 - timmerintice.com
 - timoggownduj.com
+- timon.zijieapi.com
 - timot-cvk.info
 - timsef.com
 - timtamti.net
@@ -107650,11 +107689,13 @@ domain_suffix_set:
 - ttzmedia.com
 - tu.tantrumslab.com
 - tu.zx110.org
+- tu0379199038.cc
 - tu1500919341.cc
 - tu2024020388.com
 - tu3168509469.cc
 - tu3921276844.cc
 - tu4038097360.cc
+- tu5551976196.cc
 - tu6767109513.cc
 - tuagol.gartenmoebel.de
 - tubberlo.com
@@ -107989,6 +108030,7 @@ domain_suffix_set:
 - twvybupqup.xyz
 - twww.sbs
 - twwxjqsk.com
+- twxwjhitymk.com
 - twyn.com
 - twyvergongs.com
 - twzadf.xyz
@@ -108079,6 +108121,7 @@ domain_suffix_set:
 - tyningtufa.top
 - tynt.com
 - tyo.justthegays.com
+- tyoajanseuranta-sovellus-infi1.de
 - tyodot.icu
 - typablecyclide.com
 - typescoordinate.com
@@ -109415,6 +109458,7 @@ domain_suffix_set:
 - uptafashib.com
 - uptearfancily.top
 - uptechnologys.com
+- uptightdecreaseclinical.com
 - uptightfirm.com
 - uptightimmigrant.com
 - uptightyear.com
@@ -109699,7 +109743,6 @@ domain_suffix_set:
 - usmgoxe.cn
 - usmilitarylawyer.com
 - usn.cc
-- usnewoutdoor.com
 - usnewoutdoors.com
 - usninicsooey.com
 - usnvuj.skillfactory.ru
@@ -110758,6 +110801,7 @@ domain_suffix_set:
 - vicanerly.top
 - vice-ads-cdn.vice.com
 - vice-publishers-cdn.vice.com
+- vicidola.com
 - vicious-instruction.pro
 - viciousdepartment.com
 - viciousdiplomaroller.com
@@ -110905,6 +110949,7 @@ domain_suffix_set:
 - view.kirbybuildingsystems.com
 - view.metlspan.com
 - view.nucorbuildingsystems.com
+- view.zijieapi.com
 - view4cash.de
 - viewablemedia.net
 - viewagendaanna.com
@@ -111208,6 +111253,7 @@ domain_suffix_set:
 - vitiumkerel.top
 - vitor304apt.com
 - vitrealmandola.com
+- vitrifywarman.click
 - viu.viubyhub.com
 - viuszh.expressshop.lv
 - viva.api.xiaoying.co
@@ -112465,6 +112511,7 @@ domain_suffix_set:
 - web-hosts.io
 - web-ledger.su
 - web-loading.net
+- web-protection-app.com
 - web-scanner.co
 - web-screenshot.com
 - web-security.cloud
@@ -112728,6 +112775,7 @@ domain_suffix_set:
 - webexodus.ws
 - webeyemob.com
 - webeyu.ru
+- webfanclub.com
 - webfullhd-uk.com
 - webgains.com
 - webhooks-affiliates.ornament.app
@@ -117135,6 +117183,7 @@ domain_suffix_set:
 - xpidgvrjakkdx.com
 - xpimupaqnanl.com
 - xpj08.oss-cn-beijing.aliyuncs.com
+- xpjcg.oss-accelerate.aliyuncs.com
 - xpjjlgzqs.com
 - xpkxahje.xyz
 - xploitz.net
@@ -117980,6 +118029,7 @@ domain_suffix_set:
 - yilpkosxa.com
 - yilwsirb.com
 - yim3eyv5.top
+- yimemediatesup.com
 - yimkju.com
 - yimpolis.com
 - yin1.zgpingshu.com
