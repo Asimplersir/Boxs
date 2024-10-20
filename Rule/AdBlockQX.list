@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 119194
-# 更新时间: 2024-10-20 19:57:10
+# 规则数量: 119196
+# 更新时间: 2024-10-21 07:57:02
 
 HOST-SUFFIX,0.101tubeporn.com
 HOST-SUFFIX,0.code.cotsta.ru
@@ -2902,6 +2902,7 @@ HOST-SUFFIX,99cheats.com
 HOST-SUFFIX,99click.com
 HOST-SUFFIX,99ddd.com
 HOST-SUFFIX,99fe352223.com
+HOST-SUFFIX,99jinpin.com
 HOST-SUFFIX,99noivas.com
 HOST-SUFFIX,99videos.biz
 HOST-SUFFIX,99youmeng.com
@@ -61307,6 +61308,7 @@ HOST-SUFFIX,luqyvp.pandorashop.gr
 HOST-SUFFIX,luracancamus.com
 HOST-SUFFIX,lurdoocu.com
 HOST-SUFFIX,lureillegimateillegimate.com
+HOST-SUFFIX,luresdl.top
 HOST-SUFFIX,lurgaimt.net
 HOST-SUFFIX,lurgimte.com
 HOST-SUFFIX,lurkfibberband.com

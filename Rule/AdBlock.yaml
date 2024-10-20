@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 119197
-# 更新时间: 2024-10-20 19:57:11
+# 规则数量: 119199
+# 更新时间: 2024-10-21 07:57:02
 
 no_resolve: true
 domain_set:
@@ -2905,6 +2905,7 @@ domain_suffix_set:
 - 99click.com
 - 99ddd.com
 - 99fe352223.com
+- 99jinpin.com
 - 99noivas.com
 - 99videos.biz
 - 99youmeng.com
@@ -61310,6 +61311,7 @@ domain_suffix_set:
 - luracancamus.com
 - lurdoocu.com
 - lureillegimateillegimate.com
+- luresdl.top
 - lurgaimt.net
 - lurgimte.com
 - lurkfibberband.com
