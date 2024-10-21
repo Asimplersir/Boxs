@@ -1,6 +1,6 @@
 # 规则名称: AdBlock
-# 规则数量: 119319
-# 更新时间: 2024-10-21 19:56:54
+# 规则数量: 119322
+# 更新时间: 2024-10-22 07:56:57
 
 no_resolve: true
 domain_set:
@@ -1753,6 +1753,7 @@ domain_suffix_set:
 - 4f8df84dbf.c43257dc0f.com
 - 4fb0cadcc3.com
 - 4ffecd1ee4.com
+- 4fs3r.icu
 - 4fxjozeu7dwn.shop
 - 4g0b1inr.de
 - 4girlsfingerpaint.com
@@ -68840,6 +68841,7 @@ domain_suffix_set:
 - murderassuredness.com
 - murdoog.com
 - murdyq.com
+- muresdx.top
 - muricidmartins.com
 - muriheem.net
 - murkestminter.com
@@ -73044,6 +73046,7 @@ domain_suffix_set:
 - on.leagueapps.com
 - on.librestream.com
 - on.securedhops.com
+- on5ga.icu
 - onacao.com
 - onads.com
 - onagsc.xyz
