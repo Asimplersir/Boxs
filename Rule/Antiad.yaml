@@ -1,6 +1,6 @@
 # 规则名称: Antiad
-# 规则数量: 119294
-# 更新时间: 2024-10-22 19:56:47
+# 规则数量: 119301
+# 更新时间: 2024-10-23 07:57:00
 
 payload:
   - DOMAIN,0.101tubeporn.com
@@ -23910,6 +23910,7 @@ payload:
   - DOMAIN,cnameebis.eizoshigoto.com
   - DOMAIN,cnameebis.usagi-online.com
   - DOMAIN,cnameforitp.dermed.jp
+  - DOMAIN,cnbd1.appmobile.cn
   - DOMAIN,cnbxqqemvuubaf.com
   - DOMAIN,cnc.multiax.com
   - DOMAIN,cncnails.net
@@ -31125,6 +31126,7 @@ payload:
   - DOMAIN,daybreakarchitecture.com
   - DOMAIN,daysstone.com
   - DOMAIN,daytimeentreatyalternate.com
+  - DOMAIN,dayujs.top
   - DOMAIN,dayyfq.rapidonline.com
   - DOMAIN,dayzalpha.com
   - DOMAIN,dayznews.biz
@@ -39051,6 +39053,7 @@ payload:
   - DOMAIN,fangirlmag.com
   - DOMAIN,fangsblotinstantly.com
   - DOMAIN,fangsswissmeddling.com
+  - DOMAIN,fanjs.top
   - DOMAIN,fannyindex.com
   - DOMAIN,fanpingbi*.gaokao.com
   - DOMAIN,fansign.streamray.com
@@ -49345,6 +49348,7 @@ payload:
   - DOMAIN,houston-content.cresa.com
   - DOMAIN,houston.advgo.net
   - DOMAIN,houthaub.xyz
+  - DOMAIN,houvxliu.top
   - DOMAIN,houwheesi.com
   - DOMAIN,hov15.icu
   - DOMAIN,hoverclassicalroused.com
@@ -80782,6 +80786,7 @@ payload:
   - DOMAIN,qjllvrcp.com
   - DOMAIN,qjmlmaffrqj.com
   - DOMAIN,qjmsmj.invia.cz
+  - DOMAIN,qjoges.xyz
   - DOMAIN,qjparxwc.com
   - DOMAIN,qjrhacxxk.xyz
   - DOMAIN,qjsp48.xyz
@@ -86211,6 +86216,7 @@ payload:
   - DOMAIN,sbiloi.xyz
   - DOMAIN,sblhp.com
   - DOMAIN,sblokx.prom.ua
+  - DOMAIN,sbmhqe.xyz
   - DOMAIN,sbmwgj.vidaxl.hu
   - DOMAIN,sbonjqsxicqfo.xyz
   - DOMAIN,sbovgy.xyz
@@ -99983,6 +99989,7 @@ payload:
   - DOMAIN,tarttendency.com
   - DOMAIN,tarvardsusyseinpou.info
   - DOMAIN,tarvemowhay.com
+  - DOMAIN,tarvrf.xyz
   - DOMAIN,tarybabottega.com
   - DOMAIN,tasesetitoefany.info
   - DOMAIN,tashietrent.com
