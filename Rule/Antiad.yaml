@@ -1,6 +1,6 @@
 # 规则名称: Antiad
-# 规则数量: 119421
-# 更新时间: 2024-10-24 19:56:51
+# 规则数量: 119426
+# 更新时间: 2024-10-25 07:57:02
 
 payload:
   - DOMAIN,0.101tubeporn.com
@@ -44377,6 +44377,7 @@ payload:
   - DOMAIN,gjkkdashb4.fun
   - DOMAIN,gjmedashb0.fun
   - DOMAIN,gjmovc.epapoutsia.gr
+  - DOMAIN,gjnbf.com
   - DOMAIN,gjndsa.amaro.com
   - DOMAIN,gjnzqdpzda.com
   - DOMAIN,gjonfartyb.com
@@ -49860,6 +49861,7 @@ payload:
   - DOMAIN,huoju.asia
   - DOMAIN,huomob.com
   - DOMAIN,huoxingtan66.com
+  - DOMAIN,huoxun.wang
   - DOMAIN,hupiru.uno
   - DOMAIN,huppontic.com
   - DOMAIN,hupu-nba.com
@@ -58633,6 +58635,7 @@ payload:
   - DOMAIN,lgidskil.top
   - DOMAIN,lgjygg.com
   - DOMAIN,lgkdnlienpynmn.com
+  - DOMAIN,lgkocdi.icu
   - DOMAIN,lgkyhl.biurwa.pl
   - DOMAIN,lgm.averydennison.com
   - DOMAIN,lgoewtd.icu
@@ -72673,6 +72676,7 @@ payload:
   - DOMAIN,ohjrxj.personalizationmall.com
   - DOMAIN,ohkahfwumd.com
   - DOMAIN,ohkdsplu.com
+  - DOMAIN,ohkfmi.xyz
   - DOMAIN,ohkojloxdtw.com
   - DOMAIN,ohkvifgino.com
   - DOMAIN,ohlattice.com
@@ -80678,6 +80682,7 @@ payload:
   - DOMAIN,qdicel.marymaxim.com
   - DOMAIN,qdickey.top
   - DOMAIN,qdipsumy.top
+  - DOMAIN,qdjsiyt.icu
   - DOMAIN,qdkaky.rikilovesriki.com
   - DOMAIN,qdlyqbpzfkl.com
   - DOMAIN,qdlzj.cn
